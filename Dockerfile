@@ -11,6 +11,6 @@ ENV LANG en_US.UTF-8
 
 RUN apt-get update -q && \
     apt-get -y dist-upgrade && \
-    apt-get -y install curl &&
+    apt-get -y install curl && \
     apt-get clean -y && \
     rm -rf /var/cache/apt/*
