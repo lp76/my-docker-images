@@ -1,3 +1,5 @@
+[![](http://dockeri.co/image/lp76/debian)](https://registry.hub.docker.com/u/lp76/debian/)
+
 # A simple Debian 8 image
 
 
